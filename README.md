@@ -6,3 +6,7 @@ SimMatO2020 - Fernando Del Valle
 1. Optimización
 2. Simulación Montecarlo
 3. Ecuaciones Diferenciales
+
+### Lista de tareas
++ Jupyter
++ Montecarlo 
